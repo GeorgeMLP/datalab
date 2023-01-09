@@ -8,7 +8,7 @@ The purpose of this assignment is to become more familiar with bit-level represe
 
 ## Installation
 
-It is recommended to do this lab on Ubuntu 20.04. Make sure you have the following package installed:
+It is recommended to do this lab on Ubuntu 22.04. Make sure you have the following package installed:
 ```
 sudo apt-get install gcc-multilib
 ```
